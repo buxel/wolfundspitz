@@ -2,15 +2,14 @@
 layout: splash
 permalink: /
 hidden: true
+page:
+  title: Yondu vom Taubengarten
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/yondu-hero.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_image: /assets/images/yondu-hero.jpg    
 excerpt: >
-  - Wolfsspitz Zuchtrüde Yondu vom Taubengarten.
-  - Mitglied im Verein für deutsche Spitze e.V.
+  Wolfsspitz Zuchtrüde Yondu vom Taubengarten. <br />
+  Mitglied im Verein für deutsche Spitze e.V.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "steckbrief"
