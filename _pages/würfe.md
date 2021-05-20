@@ -8,8 +8,6 @@ header:
   overlay_image: /assets/images/würfe-header.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Interesse?"
+    - label: "Deckrüde anfragen?"
       url: "/kontakt/"
 ---
-
-Übersicht aller Würfe
