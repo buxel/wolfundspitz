@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt: { site.description }
+excerpt: {{ site.description }}
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
