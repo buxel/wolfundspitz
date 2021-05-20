@@ -2,8 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-page:
-  title: Yondu vom Taubengarten
+title: Yondu vom Taubengarten
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/yondu-hero.jpg    
