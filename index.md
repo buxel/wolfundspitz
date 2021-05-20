@@ -9,6 +9,8 @@ header:
 excerpt: >
   Wolfsspitz Zuchtrüde Yondu vom Taubengarten. <br />
   Mitglied im Verein für deutsche Spitze e.V.
+intro: 
+  - excerpt: 'Ein bisschen Text... Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "steckbrief"
@@ -33,4 +35,5 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
