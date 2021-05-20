@@ -30,10 +30,19 @@ feature_row:
     alt: "würfe"
     title: "Würfe"
     excerpt: "👶 Meine stolzen Nachkommen "
-    url: "/docs/license/"
+    url: "/würfe/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"     
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Contact"
+    excerpt: 'Möchten Sie mir eie **Kontaktanfrage** schicken? `type="left"`'
+    url: "/kontakt/"
+    btn_label: "Kontakt"
+    btn_class: "btn--primary"    
 ---
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+{% include feature_row id="feature_row2" type="left" %}
