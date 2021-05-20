@@ -1,8 +1,8 @@
 ---
 title: Würfe
 layout: category
-permalink: /categories/wurf/
-taxonomy: Würfe
+permalink: /würfe/
+taxonomy: wurf
 ---
 
 Übersicht aller Würfe
