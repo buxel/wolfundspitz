@@ -1,6 +1,6 @@
 ---
 title: Würfe
-layout: posts
+layout: category
 permalink: /würfe/
 taxonomy: wurf
 excerpt: "Der liebe Nachwuchs..."
